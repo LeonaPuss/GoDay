@@ -1,5 +1,5 @@
 ---
-layout:default
+layout:post
 title:Teach your little ones some new survival tips to fill up free time.Christine Peterson
 ---
 
