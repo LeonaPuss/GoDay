@@ -1,23 +1,20 @@
-#Later#
+# Later#
+
 [TOC]
 
 [Suzy for Marie Claire Korea magazine February 2019 issue]https://kpopping.com/kpics/details/77318-Suzy-for-Marie-Claire-Korea-magazine-February-2019-issue
 
 [MissA-Hush](https://www.youtube.com/watch?v=rQ1jFXbLO0o)
 
-[听力库英语网](http://www.tingliku.com/tingli/)
+[听力课堂](https://www.tingclass.net/)
 
 [高中英语牛津版](http://m.kekenet.com/menu/201211/206923.shtml)
 
 [看见统计](https://seeing-theory.brown.edu/probability-distributions/cn.html)
 
-https://www.tinymind.cn/articles/4080
+[从Python到前端全系列](https://zhuanlan.zhihu.com/p/55157043)
 
-https://zhuanlan.zhihu.com/p/55157043
-
-https://www.jianshu.com/p/756b712a64bb
-
-https://www.cnblogs.com/wzjhoutai/p/6973370.html
+[算法基础之微积分--线性代数--离散数学](https://www.cnblogs.com/wzjhoutai/p/6973370.html)
 
 [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/)
 
@@ -43,15 +40,15 @@ https://www.cnblogs.com/wzjhoutai/p/6973370.html
 
 [试论新闻学和传播学的区别](http://media.people.com.cn/n/2013/0111/c354159-20172593.html)
 
-https://start.me/p/xbYXdR/iyp-1
+[iYP隐私](https://start.me/p/xbYXdR/iyp-1)
 
-[电子书屋全盘购买]http://www.maimaimai.life/
+[电子书屋全盘购买](http://www.maimaimai.life/)
 
 [这才是心理学](https://mp.weixin.qq.com/s?__biz=MzAwNDQ3OTIxMg==&mid=2652978064&idx=1&sn=23c41d575749f553dbd34f35094f5c53)
 
 [baidupcs]https://github.com/liuzhuoling2011/baidupcs-web/releases
 
-https://www.smbinn.com/islidecourse.html
+[iSlide：怎样让你的PPT变高级·教程](https://www.smbinn.com/islidecourse.html)
 
 [How2j.CN_Java]https://how2j.cn/?p=5754
 
@@ -65,7 +62,6 @@ https://space.bilibili.com/472808136/favlist
 
 [IYP优秀书籍年度汇总2019 - 在线下载免费阅读](https://www.iyouport.org/iyp%e4%bc%98%e7%a7%80%e4%b9%a6%e7%b1%8d%e5%b9%b4%e5%ba%a6%e6%b1%87%e6%80%bb2019%e2%80%8a-%e2%80%8a%e5%9c%a8%e7%ba%bf%e4%b8%8b%e8%bd%bd%e5%85%8d%e8%b4%b9%e9%98%85%e8%af%bb/amp/?__twitter_impression=true)
 
-23
 
 [Google 出版新书《Building Secure and Reliable Systems》](https://www.solidot.org/story?sid=64086)
 
@@ -220,6 +216,7 @@ https://chinadigitaltimes.net/chinese/2020/05/%e7%bb%b4%e8%88%9f%ef%bd%9c%e8%ae%
 https://chinadigitaltimes.net/chinese/2020/05/%e5%87%a4%e5%87%b0weekly%ef%bd%9c%e5%9c%a8%e4%b8%ad%e5%9b%bd%ef%bc%8c%e6%9c%89%e4%b8%80%e7%be%a4%e8%80%81%e5%a4%96%e6%ad%a3%e5%9c%a8%e6%94%b6%e5%89%b2%e7%88%b1%e5%9b%bd%e9%9f%ad%e8%8f%9c/
 
 [Social Justice is not Justice](https://www.youtube.com/watch?v=yBX-9eUtwzU)
+
 Justice
 
 Getting what you deserve without favor
@@ -235,6 +232,7 @@ Getting what you **don't** deserve **because you are favored**
 索火径（catena）
 
 ASPLOS 计算机系统领域顶级会议
+
 [High-density Multi-tenant Bare-metal Cloud]()
 
 有多想活，多想继续留在这个世界。人生最大的遗憾是什么？内心最大的遗憾是什么了，是在我坚持快十年的演员职业生涯里，我还没成为过一次满意的女主角。这是我人生为之奋斗的旅程和梦想，也许我应该在这个时候对我自己的坚持的梦想说点什么。在我心里有了人生的方向，我不仅仅要成为一名话剧演员，更要成为一名好话剧演员，站在舞台的灯光下去体会不同角色不一样的人生。我是幸运的，但又是无奈的，幸运的是有了人生的方向，无奈的是话剧演员的收入根本无法养活自己，几年过去在剧院里我依然只能演着配角跑着群众，我是否还要继续坚持，何去何从，三十多岁的人生是否还有更多的可能，有过很多次的退堂鼓，这几年内心变的那么如履薄冰、变的那么小心翼翼，变的那么没有自信，害怕失去，害怕连群众都没有机会，内心无数次的想着，是因为没有背景，还是因为没有人脉，我开始患得患失，开始不自信。但一次次的演出，一次次因为角色的感动，把我拉了回来，舞台不仅仅让我享受着创作的快感，也让我从不同的角色的身上思考和审视自己的生活，我要坚持着我的梦想，我要让自己更加的热爱我的梦想。开始真正的为成为舞台上的主角而努力，我知道要成为你想成为的那个人，你必须为它付出足够的努力。只是身边很多想成为演员的人，真正去为了嘴上的理想付出努力的人确实不多，大部分的时间都在酒桌上和各式的交际上，我们自身的文学修养、艺术修养、演员必备的技能修养都不足以让我们成为一名好演员。我们需要改变，懂的为之努力，才有机会前行。十年下来，虽然我还没能成为舞台上那个中心点，但我越发相信只要你愿意为之付出，总会有成为主角的那一天，不仅仅是舞台的主角，更应该是我自己生活的主角。我知道你们是那么想让我留下，我做不到，你们不要怪我，为了我，你们要好好的活着，替我活好，谢谢你们，谢谢那些曾经在七个小时就为我筹了30万治疗费的善良人们，我相信，这个世界终究是善良的。谢谢我可以找到人生的方向—成为了一名演员，并为之努力过！
