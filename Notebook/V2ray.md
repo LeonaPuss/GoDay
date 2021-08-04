@@ -1,5 +1,22 @@
 # V2ray\Xray
 
+[TOC]
+
+## V2Ray install 
+
+bash install-release.sh
+
+## V2Ray Remove
+
+--..sh	--remove
+
+**Echo**
+```Bash
+info: V2Ray has been removed.
+info: If necessary, manually delete the configuration and log files.
+info: e.g., /usr/local/etc/v2ray and /var/log/v2ray/ ...
+```
+
 Linux配置v2ray详细教程-Ubuntu为例
 https://mahongfei.com/1776.html
 

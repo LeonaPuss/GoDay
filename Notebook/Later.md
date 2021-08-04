@@ -262,11 +262,17 @@ ASPLOS 计算机系统领域顶级会议
 
 [MATTERS | 雲五：从我被豆瓣判了赛博死刑，到审查体制背后的怯懦](https://chinadigitaltimes.net/chinese/2020/03/matters-%e9%9b%b2%e4%ba%94%ef%bc%9a%e4%bb%8e%e6%88%91%e8%a2%ab%e8%b1%86%e7%93%a3%e5%88%a4%e4%ba%86%e8%b5%9b%e5%8d%9a%e6%ad%bb%e5%88%91%ef%bc%8c%e5%88%b0%e5%ae%a1%e6%9f%a5%e4%bd%93%e5%88%b6%e8%83%8c/)
 
-B站博主
-郝给力、拂森坊、信誓蛋蛋、郭杰瑞
-
-
 已完成百分之 65。(共 147754 个索引项，已处理 128811 个)
 正在删除文件 34843 的索引 $I30 中的索引项 Burp_Suite_Pro.md。
 正在删除文件 34843 的索引 $I30 中的索引项 LiunxHA集群.md。
 正在删除文件 34843 的索引 $I30 中的索引项 OracleInstallRHEL.md。
+
+## B站UP主、B站博主
+
+### 外国名人
+
+郝给力、拂森坊、信誓蛋蛋、郭杰瑞
+
+### Coder导师
+
+特里、猪摸摸Li、CodeSheep程序羊、老石谈芯、

@@ -220,3 +220,7 @@ ISCSI 启动器
 ###　　RH318虚拟化
 　　一、Hypervisor6.4操作系统安装
 　　二、RHEV-Manager配置
+
+### windows与Liunx同步差异
+
+[UTC](https://www.jianshu.com/p/cf445a2c55e8)
