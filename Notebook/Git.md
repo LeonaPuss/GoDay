@@ -101,7 +101,7 @@ mklink /d 符号链接（硬链接快捷）itunes备份文件路径方法
 https://jingyan.baidu.com/article/466506580dde28f549e5f817.html
 
 
-##git add 多个文件和文件夹的方法
+## git add 多个文件和文件夹的方法
 
 方法三 添加指定目录下的文件
 config目录下及子目录下所有文件，home目录下的所有.php文件
@@ -139,3 +139,13 @@ https://www.youtube.com/watch?v=lpNGeonJtJw
 [搭建基于WordPress的个人网站](https://flyzy2005.github.io/2018/01/25/build-home-page-with-wordpress/)
 
 [如何在 GitHub 提交第一个 pull request](https://chinese.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github/)
+
+### End of line EOL
+[EOL vs-code-and-git](https://medium.com/@csmunuku/windows-and-linux-eol-sequence-configure-vs-code-and-git-37be98ef71df)
+UNIX \n LF is BEST !
+
+VS Code "Ctrl+Alt+P" "EOL"
+
+```
+git config --global core.autocrlf true
+```

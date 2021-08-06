@@ -233,3 +233,10 @@ TEDtoChina
 1. 路线图介绍
 2. 课程推荐[Udacity: Learn the Latest Tech Skills; Advance Your Career](https://www.udacity.com)
 3. 
+
+
+### Hardware
+
+Raspberry Pi is a cute little single-board computer.
+
+architecture is the same.
