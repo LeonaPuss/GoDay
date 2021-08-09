@@ -146,6 +146,6 @@ UNIX \n LF is BEST !
 
 VS Code "Ctrl+Alt+P" "EOL"
 
-```
+```cmd
 git config --global core.autocrlf true
 ```
